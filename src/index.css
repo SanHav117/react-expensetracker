@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Rubik:wght@300;400;500&display=swap');
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url("https://previews.123rf.com/images/doozydo/doozydo1808/doozydo180800050/106927546-indian-rupee-notes-seamless-pattern-scattered-inr-bills-india-cartoon-flying-money-pattern.jpg");
+  background-repeat: none;
+  background-size: 50%;
+  font-family: Rubik;
+  font-weight: 300;
+}
